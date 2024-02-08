@@ -1,0 +1,2 @@
+class ZipConverter < ApplicationRecord
+end

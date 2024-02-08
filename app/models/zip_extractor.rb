@@ -1,0 +1,2 @@
+class ZipExtractor < ApplicationRecord
+end
